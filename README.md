@@ -10,6 +10,7 @@ Specialized in Frontend Web Development with skills in HTML, CSS, and JavaScript
     <a href="#"><img src="https://i.postimg.cc/nhydFrjm/Logos-Typescript-Icon.png" alt="TypeScript" style="width: 40px;"></a>
     <a href="#"><img src="https://i.postimg.cc/ZR7pqs7Q/Logos-Tailwindcss-Icon.png" alt="TailwindCSS" style="width: 40px;"></a>
     <a href="#"><img src="https://i.postimg.cc/kGLSQ6dF/Logos-Sass.png" alt="Sass" style="width: 40px;"></a>
+    <a href="#"><img src="https://i.postimg.cc/Jh3SSZ60/Devicon-Vuejs.png" alt="Vue.js" style="width: 40px;"></a>
 </div>
 
 
