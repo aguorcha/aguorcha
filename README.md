@@ -4,13 +4,13 @@
 Specialized in Frontend Web Development with skills in HTML, CSS, and JavaScript, my passion for technology extends to the fascinating world of blockchain. With a profound interest in exploring the potential of blockchain technology and the web3 ecosystem, I am eager to learn more and contribute to the development of innovative solutions in this ever-evolving field.
 
 <div style="display: flex;">
-    <a href="#"><img src="https://i.postimg.cc/MG9jsjYJ/Logos-Html5.png" alt="HTML5" style="width: 40px; margin-right: 5px;"></a>
-    <a href="#"><img src="https://i.postimg.cc/j24TXyzz/Css3.png" alt="CSS3" style="width: 40px; margin-right: 5px;"></a>
-    <a href="#"><img src="https://i.postimg.cc/vZRk00Yf/Javascript.png" alt="JavaScript" style="width: 40px; margin-right: 5px;"></a>
-    <a href="#"><img src="https://i.postimg.cc/nhydFrjm/Logos-Typescript-Icon.png" alt="TypeScript" style="width: 40px; margin-right: 5px;"></a>
-    <a href="#"><img src="https://i.postimg.cc/ZR7pqs7Q/Logos-Tailwindcss-Icon.png" alt="TailwindCSS" style="width: 40px;" margin-right: 5px;></a>
-    <a href="#"><img src="https://i.postimg.cc/kGLSQ6dF/Logos-Sass.png" alt="Sass" style="width: 40px;" margin-right: 5px;></a>
-    <a href="#"><img src="https://i.postimg.cc/Jh3SSZ60/Devicon-Vuejs.png" alt="Vue.js" style="width: 40px;" margin-right: 5px;></a>
+    <a href="#"><img src="https://i.postimg.cc/MG9jsjYJ/Logos-Html5.png" alt="HTML5" style="width: 40px; margin-right: 10px;"></a>
+    <a href="#"><img src="https://i.postimg.cc/j24TXyzz/Css3.png" alt="CSS3" style="width: 40px; margin-right: 10px;"></a>
+    <a href="#"><img src="https://i.postimg.cc/vZRk00Yf/Javascript.png" alt="JavaScript" style="width: 40px; margin-right: 10px;"></a>
+    <a href="#"><img src="https://i.postimg.cc/nhydFrjm/Logos-Typescript-Icon.png" alt="TypeScript" style="width: 40px; margin-right: 10px;"></a>
+    <a href="#"><img src="https://i.postimg.cc/ZR7pqs7Q/Logos-Tailwindcss-Icon.png" alt="TailwindCSS" style="width: 40px;" margin-right: 10px;></a>
+    <a href="#"><img src="https://i.postimg.cc/kGLSQ6dF/Logos-Sass.png" alt="Sass" style="width: 40px;" margin-right: 10px;></a>
+    <a href="#"><img src="https://i.postimg.cc/Jh3SSZ60/Devicon-Vuejs.png" alt="Vue.js" style="width: 40px;" margin-right: 10px;></a>
 </div>
 
 
