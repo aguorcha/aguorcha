@@ -5,7 +5,7 @@ Specialized in Frontend Web Development with skills in HTML, CSS, and JavaScript
 
 <div style="display: flex;">
     <a href="#"><img src="https://i.postimg.cc/vDFPcnJV/Devicon-Html5.png" alt="HTML5" style="width: 40px;"></a>
-    <a href="#"><img src="URL_DEL_ICONO_CSS" alt="CSS3" style="width: 40px;"></a>
+    <a href="#"><img src="https://i.postimg.cc/j24TXyzz/Css3.png" alt="CSS3" style="width: 40px;"></a>
     <a href="#"><img src="URL_DEL_ICONO_JAVASCRIPT" alt="JavaScript" style="width: 40px;"></a>
     <a href="#"><img src="URL_DEL_ICONO_BLOCKCHAIN" alt="Blockchain" style="width: 40px;"></a>
 </div>
