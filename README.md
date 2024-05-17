@@ -23,7 +23,7 @@ Specialized in Frontend Web Development with skills in HTML, CSS, and JavaScript
     <a href="#"><img src=https://i.postimg.cc/63QJRzwR/Logos-Linux-Tux.png alt="Linux" style="width: 40px;"></a>
     <a href="#"><img src=https://i.postimg.cc/pdRtVR6s/Logos-Archlinux.png alt="Archlinux" style="width: 40px;"></a>
     <a href="#"><img src=https://i.postimg.cc/8cG258Dm/Logos-Ethereum.png alt="Ethereum" style="width: 30px;"></a>
-    <a href="#"><img src=https://i.postimg.cc/9QZRsS1Y/Logos-Solidity.png alt="Solidity" style="width: 40px;"></a>
+    <a href="#"><img src=https://i.postimg.cc/9QZRsS1Y/Logos-Solidity.png alt="Solidity" style="width: 30px;"></a>
     <a href="#"><img src=https://i.postimg.cc/q79k0MRt/Logos-Open-Zeppelin-Icon.png alt="OpenZeppelin" style="width: 40px;"></a>
 </div>
 
