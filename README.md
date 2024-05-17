@@ -7,7 +7,9 @@ Specialized in Frontend Web Development with skills in HTML, CSS, and JavaScript
     <a href="#"><img src="https://i.postimg.cc/MG9jsjYJ/Logos-Html5.png" alt="HTML5" style="width: 40px;"></a>
     <a href="#"><img src="https://i.postimg.cc/j24TXyzz/Css3.png" alt="CSS3" style="width: 40px;"></a>
     <a href="#"><img src="https://i.postimg.cc/vZRk00Yf/Javascript.png" alt="JavaScript" style="width: 40px;"></a>
-    <a href="#"><img src="URL_DEL_ICONO_BLOCKCHAIN" alt="Blockchain" style="width: 40px;"></a>
+    <a href="#"><img src="https://i.postimg.cc/nhydFrjm/Logos-Typescript-Icon.png" alt="TypeScript" style="width: 40px;"></a>
+    <a href="#"><img src="https://i.postimg.cc/ZR7pqs7Q/Logos-Tailwindcss-Icon.png" alt="TailwindCSS" style="width: 40px;"></a>
+    <a href="#"><img src="https://i.postimg.cc/kGLSQ6dF/Logos-Sass.png" alt="Sass" style="width: 40px;"></a>
 </div>
 
 
