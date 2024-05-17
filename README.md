@@ -16,9 +16,10 @@ Specialized in Frontend Web Development with skills in HTML, CSS, and JavaScript
 
 <h2>More</h2>
 <div style="display: flex;">
-    <a href="#"><img src="https://i.postimg.cc/MG9jsjYJ/Logos-Html5.png" alt="HTML5" style="width: 40px;"></a>
-    <a href="#"><img src="https://i.postimg.cc/j24TXyzz/Css3.png" alt="CSS3" style="width: 40px;"></a>
-    <a href="#"><img src="https://i.postimg.cc/vZRk00Yf/Javascript.png" alt="JavaScript" style="width: 40px;"></a>
+    <a href="#"><img src=https://i.postimg.cc/T2FMLrsL/LogosC.png alt="C" style="width: 40px;"></a>
+    <a href="#"><img src=https://i.postimg.cc/Vky8TjBQ/GitIcon.png alt="Git" style="width: 40px;"></a>
+    <a href="#"><img src=https://i.postimg.cc/63QJRzwR/Logos-Linux-Tux.png alt="Linux" style="width: 40px;"></a>
+    <a href="#"><img src=https://i.postimg.cc/pdRtVR6s/Logos-Archlinux.png alt="Archlinux" style="width: 40px;"></a>
 </div>
 
 
