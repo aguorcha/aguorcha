@@ -1,7 +1,5 @@
 ![blockchain_05-1024x512](https://github.com/aguorcha/aguorcha/assets/112417271/dc567d90-55b2-4ec6-8eaf-0bfc4d631db3)
 
-###### About Me
-
 Specialized in Frontend Web Development with skills in HTML, CSS, and JavaScript, my passion for technology extends to the fascinating world of blockchain. With a profound interest in exploring the potential of blockchain technology and the web3 ecosystem, I am eager to learn more and contribute to the development of innovative solutions in this ever-evolving field.
 
 <h2>Web Development</h2>
@@ -30,9 +28,7 @@ Specialized in Frontend Web Development with skills in HTML, CSS, and JavaScript
     <a href="#"><img src=https://i.postimg.cc/C5Z3r1Rx/42.png alt="42" style="width: 40px;"></a>
 </div>
 
-
-
-
+<br><br>
 
 I’m also a student at CodeCrypto Academy. My focus is on building real-world applications with **decentralized solutions** that deliver tangible value.
 
